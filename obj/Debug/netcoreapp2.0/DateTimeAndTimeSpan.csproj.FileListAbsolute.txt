@@ -1,0 +1,10 @@
+G:\Tutorials\Dot Net\Git\DateTimeAndTimeSpan\bin\Debug\netcoreapp2.0\DateTimeAndTimeSpan.deps.json
+G:\Tutorials\Dot Net\Git\DateTimeAndTimeSpan\bin\Debug\netcoreapp2.0\DateTimeAndTimeSpan.runtimeconfig.json
+G:\Tutorials\Dot Net\Git\DateTimeAndTimeSpan\bin\Debug\netcoreapp2.0\DateTimeAndTimeSpan.runtimeconfig.dev.json
+G:\Tutorials\Dot Net\Git\DateTimeAndTimeSpan\bin\Debug\netcoreapp2.0\DateTimeAndTimeSpan.dll
+G:\Tutorials\Dot Net\Git\DateTimeAndTimeSpan\bin\Debug\netcoreapp2.0\DateTimeAndTimeSpan.pdb
+G:\Tutorials\Dot Net\Git\DateTimeAndTimeSpan\obj\Debug\netcoreapp2.0\DateTimeAndTimeSpan.csproj.CoreCompileInputs.cache
+G:\Tutorials\Dot Net\Git\DateTimeAndTimeSpan\obj\Debug\netcoreapp2.0\DateTimeAndTimeSpan.AssemblyInfoInputs.cache
+G:\Tutorials\Dot Net\Git\DateTimeAndTimeSpan\obj\Debug\netcoreapp2.0\DateTimeAndTimeSpan.AssemblyInfo.cs
+G:\Tutorials\Dot Net\Git\DateTimeAndTimeSpan\obj\Debug\netcoreapp2.0\DateTimeAndTimeSpan.dll
+G:\Tutorials\Dot Net\Git\DateTimeAndTimeSpan\obj\Debug\netcoreapp2.0\DateTimeAndTimeSpan.pdb
